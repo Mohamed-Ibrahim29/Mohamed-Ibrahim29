@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamed-Ibrahim29
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java 
+- 🌱 I’m currently learning for Sql
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me @9789292729
 
 <!---
