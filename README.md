@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-Ibrahim29
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning for Sql
+- 👀 I’m interested in front end developer 
+- 🌱 I’m currently learning for web development 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me @9789292729
 
